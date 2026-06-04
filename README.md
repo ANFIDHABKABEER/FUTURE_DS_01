@@ -1,4 +1,4 @@
-# FUTURE_DS_01 – Business Sales Performance Analytics
+# FUTURE_DS_01 -Business Sales Performance Analytics
 
 ## Project Overview
 
